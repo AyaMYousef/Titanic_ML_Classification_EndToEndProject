@@ -111,6 +111,8 @@ http://127.0.0.1:8000/docs
 ```
 
 ---
+**Model Performance**:
+<img width="1165" height="547" alt="image" src="https://github.com/user-attachments/assets/f45708f8-8385-4f13-97da-2569c7836957" />
 
 
 
